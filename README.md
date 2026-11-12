@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.svg" width="88" alt="voxpad logo"/>
+</p>
+
 # voxpad
 
 Pure Dart contextual input action mapping, deadzone processing, chord combos, input buffering, interactive rebinding, JSON profiles, and virtual touch gamepads.
